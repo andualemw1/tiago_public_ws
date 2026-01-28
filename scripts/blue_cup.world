@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <world name="default">
+    
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+
+    <include>
+      <uri>model://sun</uri>
+    </include>
+
+    <model name='cup_blue'>
+      <pose>1.0 0.0 0.8 0 0 0</pose> <link name='link_13'>
+        <inertial> <mass>0.1</mass>
+          <inertia>
+            <ixx>0.0001</ixx> <ixy>0</ixy> <ixz>0</ixz>
+            <iyy>0.0001</iyy> <iyz>0</iyz> <izz>0.0001</izz>
+          </inertia>
+        </inertial>
+        <visual name='visual'>
+          <geometry>
+            <mesh>
+              <uri>model://cup_blue/meshes/cup1.dae</uri>
+              <scale>1 1 1</scale>
+            </mesh>
+          </geometry>
+          <material>
+            <ambient>0.3 0.4 0.9 1</ambient>
+            <diffuse>0.3 0.4 0.9 1</diffuse>
+            <specular>0.1 0.1 0.1 1</specular>
+          </material>
+        </visual>
+        <collision name='collision'>
+          <geometry>
+            <mesh>
+              <uri>model://cup_blue/meshes/cup1.dae</uri>
+              <scale>1 1 1</scale>
+            </mesh>
+          </geometry>
+        </collision>
+      </link>
+      <static>0</static> </model>
+
+    <physics type="ode">
+      <real_time_update_rate>1000.0</real_time_update_rate>
+      <max_step_size>0.001</max_step_size>
+      <real_time_factor>1</real_time_factor>
+    </physics>
+
+  </world>
+</sdf>
