@@ -41,6 +41,3 @@ tiago_public_ws/
 
 ### Demo 2: Arm Hovering Above the Table
 ![TIAGo arm hovering above table](docs/figures/exercise_102.png)
-
-### Demo 3: Pick-and-Place Task
-![TIAGo pick-and-place](docs/figures/exercise_103.png)
