@@ -34,6 +34,8 @@ tiago_public_ws/
 ├── configs/                 # Jupyter notebooks and instructions
 ├── .gitignore
 └── README.md
+└── TIAGo_Project_Submission/
+    └── TIAGo Robot.zip
 
 
 ## Simulation Demonstrations
@@ -41,10 +43,10 @@ tiago_public_ws/
 ## Simulation Demonstrations
 
 ### Demo 1: TIAGo Navigation
-![TIAGo navigation](https://raw.githubusercontent.com/andualemw1/tiago_public_ws/main/docs/figures/exercise_101.png)
+![TIAGo navigation](/tiago_public_ws/main/docs/figures/exercise_101.png)
 
 ### Demo 2: Pick-and-Place Task
-![TIAGo pick-and-place](https://raw.githubusercontent.com/andualemw1/tiago_public_ws/main/docs/figures/exercise_103.png)
+![TIAGo pick-and-place](/tiago_public_ws/main/docs/figures/exercise_103.png)
 
 
 
