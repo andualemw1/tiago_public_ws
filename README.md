@@ -34,3 +34,13 @@ tiago_public_ws/
 ├── configs/                 # Jupyter notebooks and instructions
 ├── .gitignore
 └── README.md
+## Simulation Demonstrations
+
+### Demo 1: TIAGo Navigation
+![TIAGo navigation in Gazebo](docs/figures/exercise_101.png)
+
+### Demo 2: Arm Hovering Above the Table
+![TIAGo arm hovering above table](docs/figures/exercise_102.png)
+
+### Demo 3: Pick-and-Place Task
+![TIAGo pick-and-place](docs/figures/exercise_103.png)
