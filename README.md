@@ -38,10 +38,13 @@ tiago_public_ws/
 
 ## Simulation Demonstrations
 
+## Simulation Demonstrations
+
 ### Demo 1: TIAGo Navigation
-![TIAGo navigation in Gazebo](docs/figures/exercise_101.png)
+![TIAGo navigation](https://raw.githubusercontent.com/andualemw1/tiago_public_ws/main/docs/figures/exercise_101.png)
 
 ### Demo 2: Pick-and-Place Task
-![TIAGo pick-and-place](docs/figures/exercise_103.png)
+![TIAGo pick-and-place](https://raw.githubusercontent.com/andualemw1/tiago_public_ws/main/docs/figures/exercise_103.png)
+
 
 
