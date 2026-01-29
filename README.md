@@ -44,3 +44,4 @@ tiago_public_ws/
 ### Demo 2: Pick-and-Place Task
 ![TIAGo pick-and-place](docs/figures/exercise_103.png)
 
+
