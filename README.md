@@ -34,8 +34,6 @@ tiago_public_ws/
 ├── configs/                 # Jupyter notebooks and instructions
 ├── .gitignore
 └── README.md
-└── TIAGo_Project_Submission/
-    └── TIAGo Robot.zip
 
 
 ## Simulation Demonstrations
