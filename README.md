@@ -1,5 +1,15 @@
 # TIAGo ROS 2 Humble Simulation Workspace
 
+<p align="center">
+  <img src="docs/figures/exercise_103.png"
+       alt="TIAGo Exercise 103"
+       width="900">
+</p>
+
+<p align="center">
+  <b>Figure:</b> TIAGo robot exercise demonstration.
+</p>
+
 This repository contains a ROS 2 Humble workspace for simulating and controlling the **TIAGo mobile manipulator** using **Gazebo Classic**.  
 The project focuses on navigation, arm manipulation, and task execution within a simulated environment.
 
