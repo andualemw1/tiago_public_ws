@@ -5,6 +5,8 @@ The project focuses on navigation, arm manipulation, and task execution within a
 
 Due to current compatibility constraints between TIAGo, Gazebo Fortress, and MoveIt 2, arm manipulation is performed by **directly commanding joint state values** rather than relying on full inverse kinematics planning.
 
+🔗 **LinkedIn Post:**  
+https://www.linkedin.com/feed/update/urn:li:activity:7441069283599835136/
 ---
 
 ## System Configuration
